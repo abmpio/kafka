@@ -1,7 +1,5 @@
 github.com/abmpio/abmp v0.0.0-20240327133337-07f182a4ec7d h1:oGI/UY7YXQ3v7OjUN4n7eCJpJbmOknPo43yXbRWXq9g=
 github.com/abmpio/abmp v0.0.0-20240327133337-07f182a4ec7d/go.mod h1:bf/OopBYU2+AgOqiIky+xLh8ZzAk14PZg2rjaIRwjKY=
-github.com/abmpio/queue v0.0.0-20231109055631-c2ff67c9c682 h1:S9ieM5zY7u9g0olJprf31diPZj0Ifgr/c5ae8lZapns=
-github.com/abmpio/queue v0.0.0-20231109055631-c2ff67c9c682/go.mod h1:pKkjNVDVZ42jHV1v49cyX10UP+KLhrZB7m2L7O3tiXg=
 github.com/abmpio/queue v0.0.0-20240404071652-f429f5d32649 h1:8PKEs4vqvky8x64NUn5IqR6rFB+IOrPX9iMPWpCqfZ4=
 github.com/abmpio/queue v0.0.0-20240404071652-f429f5d32649/go.mod h1:2S3oTjelfqJ2kYVJq6XFBTrjMnpmw8ODqiu/P8kc4H0=
 github.com/abmpio/threadingx v0.0.0-20230608084906-0204ec12ff6b h1:ZXhJaDMkN3rxJsAY9D+/vX6iZ/0EtfFA1IGzzEilqGo=
